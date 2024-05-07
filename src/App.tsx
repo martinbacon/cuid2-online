@@ -63,7 +63,7 @@ function App() {
         <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
             <div className="w-full text-center mt-32">
                 <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl">
-                    CUID2 Generator and Checker
+                    CUID2 Generator and Validator
                 </h1>
             </div>
             <div className="w-full max-w-md mt-16">
